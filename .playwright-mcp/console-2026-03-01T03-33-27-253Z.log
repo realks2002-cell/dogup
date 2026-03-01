@@ -1,0 +1,16 @@
+[  595374ms] ReferenceError: Testimonials is not defined
+    at Home (http://localhost:3004/src/pages/home/page.tsx?t=1772336602567:51:35)
+    at Object.react_stack_bottom_frame (http://localhost:3004/node_modules/.vite/deps/react-dom_client.js?v=fa6dfb24:18509:20)
+    at renderWithHooks (http://localhost:3004/node_modules/.vite/deps/react-dom_client.js?v=fa6dfb24:5654:24)
+    at updateFunctionComponent (http://localhost:3004/node_modules/.vite/deps/react-dom_client.js?v=fa6dfb24:7475:21)
+    at beginWork (http://localhost:3004/node_modules/.vite/deps/react-dom_client.js?v=fa6dfb24:8525:20)
+    at runWithFiberInDEV (http://localhost:3004/node_modules/.vite/deps/react-dom_client.js?v=fa6dfb24:997:72)
+    at performUnitOfWork (http://localhost:3004/node_modules/.vite/deps/react-dom_client.js?v=fa6dfb24:12561:98)
+    at workLoopSync (http://localhost:3004/node_modules/.vite/deps/react-dom_client.js?v=fa6dfb24:12424:43)
+    at renderRootSync (http://localhost:3004/node_modules/.vite/deps/react-dom_client.js?v=fa6dfb24:12408:13)
+    at performWorkOnRoot (http://localhost:3004/node_modules/.vite/deps/react-dom_client.js?v=fa6dfb24:11827:37)
+[  595374ms] [WARNING] %s
+
+%s
+ An error occurred in the <Home> component. Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries. @ http://localhost:3004/node_modules/.vite/deps/react-dom_client.js?v=fa6dfb24:6965
